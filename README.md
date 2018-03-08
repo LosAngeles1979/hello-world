@@ -8,3 +8,7 @@ Video: https://www.youtube.com/watch?v=NTY5VELbCWI
 
 I made this change on my home computer and pushed it up!
 I made this change on github in a browser. I will try to pull it down to my home computer.
+It worked! I was able to pull it down.
+To delete my local branch I just removed the entire directory (all files, .get folder, etc.)
+
+**I hope this was the right thing to do!**
