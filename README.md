@@ -12,3 +12,6 @@ It worked! I was able to pull it down.
 To delete my local branch I just removed the entire directory (all files, .get folder, etc.)
 
 **I hope this was the right thing to do!**
+
+Looks OK, I re-cloned to another directory on my home computer.
+Made this change, pushed it up.  S'awright!
